@@ -1,0 +1,11 @@
+.sliderImg {
+  border: 2px solid black;
+  border-radius: 50%;
+  background: white;
+}
+.slidContainer {
+  display: grid;
+  align-items: center;
+  gap: 10px;
+  color: #fff;
+}
